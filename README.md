@@ -28,8 +28,6 @@
 </div>
 
 ## :fire: My Stats :
-<!---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CervantesJose&theme=tokyonight-duo)](https://git.io/streak-stats)
---->
+[![GitHub Streak](https://streak-stats.demolab.com?user=CervantesJose&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CervantesJose&layout=compact&theme=vision-friendly-dark)](https://github.com/CervantesJose/github-readme-stats)
