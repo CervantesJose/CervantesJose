@@ -1,7 +1,7 @@
 # Jose Cervantes
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e47t0hytek8u2lu552rfmd3c8yfa06zckien265ldds&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="300"/><br>
-  <a href="https://www.linkedin.com/in/jose-ecervantes/">
+  <a href="https://www.linkedin.com/in/jose-cervantes2190">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
